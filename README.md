@@ -12,3 +12,4 @@ bbq-sauce
 1 teaspon onions powder
 1 tablespoon of your favorite barbecue rub
 1 teaspoon black pepper
+1 teasppon sriracha
