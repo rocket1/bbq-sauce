@@ -4,6 +4,7 @@ bbq-sauce
 * 2 cups ketchup
 * 1/2 cup bourbon
 * 1/4 cup cider vinegar
+* 1/4 cup rice vinegar
 * 1/4 cup Worcestershire sauce
 * 1/2 cup loosely packed brown sugar
 * 3 tablespoons molasses
@@ -13,3 +14,5 @@ bbq-sauce
 * 1.5 tablespoon of your favorite barbecue rub
 * 1 teaspoon black pepper
 * 1 tbs sriracha
+* 1/8 tsp. cinammon
+* 1/4 tsp. pasilla chili
